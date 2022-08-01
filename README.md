@@ -1,3 +1,5 @@
+![scuba diver](scuba-photo.jpg)
+
 # A little insight into Ryne Smith
 Hello. This README serves as a quick way to get to know a little bit about me.
 
