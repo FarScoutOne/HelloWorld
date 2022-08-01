@@ -11,6 +11,7 @@ I'm an avid reader of books. This year I have finished the Chronicles of Narnia 
 
 ## My Favorite Books
 - Ender's Game
-- The Magician's Nephew
 - The Hobbit
+- The Magician's Nephew
 - Burn Math Class
+- Beginning Programming for Dummies
