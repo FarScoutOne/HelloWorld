@@ -8,3 +8,9 @@ Some constants that have been true since I was a kid are my affinity for science
 
 ## My Hobbies
 I'm an avid reader of books. This year I have finished the Chronicles of Narnia series, The Hobbit, and started Dune. I also like to read and watch courses on a myriad of subjects (too many for my own good probably!). At this time, these include a book on concurrency in Python, a book on the development of mathematics, and an introductory course on linguistics. :books:
+
+## My Favorite Books
+- Ender's Game
+- The Hobbit
+- The Magician's Nephew
+- Burn Math Class
